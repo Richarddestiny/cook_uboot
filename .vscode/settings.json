@@ -1,0 +1,6 @@
+{
+    "makefile.extensionOutputFolder": "./.vscode",
+    "files.associations": {
+        "mipi_dsi_panel.h": "c"
+    }
+}
